@@ -587,3 +587,4 @@ Tom Hull was supported by “Alternative framework to assess marine ecosystem fu
 This work also contributes to the MOOSE network, which is funded by the CNRS-INSU and the French Ministry for Education and Research (ILICO).
 
 # References
+Reference: Accurate pH and O2 Measurements from Spray Underwater Gliders (DOI: 10.1175/JTECH-D-20-0095.1) 
